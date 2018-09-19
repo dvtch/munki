@@ -19,10 +19,6 @@
 	<array>
 		<dict>
 			<key>Arguments</key>
-			<dict>
-				<key>url</key>
-				<string>%DL_URL%/%match%</string>
-			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
 		</dict>
