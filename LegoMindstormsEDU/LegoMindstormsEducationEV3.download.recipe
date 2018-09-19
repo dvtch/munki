@@ -17,7 +17,7 @@
 		<key>SEARCH_PATTERN</key>
 		<string>(LME-EV3_Full-setup_[\d.]+_%LANGUAGE_CODE%_OSX.dmg)</string>
 		<key>SEARCH_URL</key>
-		<string>https://education.lego.com/en-us/downloads/mindstorms-ev3/software</string>
+		<string>https://education.lego.com/en-gb/downloads/mindstorms-ev3/software</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2.9</string>
