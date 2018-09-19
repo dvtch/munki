@@ -39,6 +39,12 @@
 			<dict>
 				<key>input_path</key>
 				<string>%pathname%/EV3DeviceManager.pkg</string>
+								<key>expected_authority_names</key>
+				<array>
+					<string>Developer ID Installer: National Instruments (SKTKK2QZ74)</string>
+					<string>Developer ID Certification Authority</string>
+					<string>Apple Root CA</string>
+				</array>
 			</dict>	
 		</dict>
 	</array>
