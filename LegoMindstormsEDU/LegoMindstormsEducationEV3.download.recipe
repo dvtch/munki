@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Download the latest version of Lego Mindstorms Education EV3.</string>
+	<string>Downloads the latest version of Lego Mindstorms Education EV3 (en-GB).</string>
 	<key>Identifier</key>
 	<string>com.github.dvtch.download.LegoMindstormsEducationEV3</string>
 	<key>Input</key>
